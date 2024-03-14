@@ -1,4 +1,4 @@
-[![MatheusZüge GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszuge)](https://github.com/matheuszuge/github-readme-stats)
+<!--- [![MatheusZüge GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszuge)](https://github.com/matheuszuge/github-readme-stats) ---->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="zuge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

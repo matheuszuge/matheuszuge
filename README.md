@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <!--- [![MatheusZüge GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszuge)](https://github.com/matheuszuge/github-readme-stats) ---->
 <table>
       <img

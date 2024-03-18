@@ -1,6 +1,5 @@
 ## Sobre mim
 
-- Explorando novas tecnologias e desenvolvendo soluções de software.
 - Estudando Analise e desenvolvimento de sistemas na Faculdade UNIBF.
 - Aprendendo mais sobre PHP e javascript.
 
@@ -23,6 +22,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
+## Isso vai melhorar! 
+
+[![card](https://github-readme-stats.vercel.app/api?username=matheuszuge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Onde me encontrar
 

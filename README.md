@@ -1,5 +1,5 @@
 ## Sobre mim
-
+- Iniciando estudos e aprendizado em programação
 - Estudando Analise e desenvolvimento de sistemas na Faculdade UNIBF.
 - Aprendendo mais sobre PHP e javascript.
 

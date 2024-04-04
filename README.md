@@ -26,6 +26,10 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=matheuszuge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&&layout=compact)
+
 
 ## Onde me encontrar
 

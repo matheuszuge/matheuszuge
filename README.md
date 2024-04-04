@@ -12,6 +12,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+
+<!--
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -22,7 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<!--
 ## Isso vai melhorar! 
 
 [![card](https://github-readme-stats.vercel.app/api?username=matheuszuge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,7 +31,7 @@
 
 ## Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact)
 
 
 ## Onde me encontrar

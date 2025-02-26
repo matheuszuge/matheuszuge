@@ -5,8 +5,6 @@
 
 ## Minhas Skills
 
-**Aplicações**
-
 ![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)

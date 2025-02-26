@@ -1,6 +1,7 @@
 ## Sobre mim
-- Estudando Analise e desenvolvimento de sistemas na Faculdade UNIBF.
-- Aprendendo mais sobre codeigniter. 
+- Estudando Analise e desenvolvimento de sistemas.
+- Possuo Experiencia com Php e Codeigniter. 
+- Aprendendo mais sobre backend em node. 
 
 ## Minhas Skills
 

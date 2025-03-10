@@ -2,7 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
-![NODE](https://img.shields.io/badge/-Node-333333?style=flat&logo=NODE&logoColor=1572B6)
+![NODEJS](https://img.shields.io/badge/-Node-333333?style=flat&logo=NODEJS&logoColor=1572B6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact)
 

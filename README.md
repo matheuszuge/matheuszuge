@@ -1,33 +1,9 @@
-## Sobre mim
-- Estudando Analise e desenvolvimento de sistemas.
-- Experiencia com PHP e Codeigniter. 
-- Aprendendo mais sobre backend em node. 
-
-## Minhas Skills
-
 ![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=Typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
-<!--
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-## Isso vai melhorar! 
---->
-
-## Linguagens mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact)
 

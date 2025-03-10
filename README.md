@@ -1,9 +1,8 @@
-![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=Typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
+![NODE](https://img.shields.io/badge/-Node-333333?style=flat&logo=NODE&logoColor=1572B6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact)
 

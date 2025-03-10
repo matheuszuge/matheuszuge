@@ -4,14 +4,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![CODEIGNITER](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=CODEIGNITER&logoColor=1572B6)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact)
-
-[![card](https://github-readme-stats.vercel.app/api?username=matheuszuge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Onde me encontrar
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszuge&theme=dark&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuszuge&theme=dark" height="150"/>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/-matheusrobertozuge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusrobertozuge-6b6ab1182/)](https://www.linkedin.com/in/matheusrobertozuge-6b6ab1182/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusrzuge@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusrzuge@gmail.com)](mailto:matheusrzuge@gmail.com)

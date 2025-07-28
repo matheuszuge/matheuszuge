@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Matheus Zuge  
+# Matheus R. Züge  
 ### Software Developer | Software Engineer | Backend Developer | PHP | JavaScript | Node.js
 
 </div>
